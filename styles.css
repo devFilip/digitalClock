@@ -1,0 +1,16 @@
+body {
+  background: #a9a9a9;
+  font-family: "Oregano", cursive;
+  color: white;
+}
+.clock {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-evenly;
+  height: 100vh;
+  width: 100%;
+}
+.time {
+  font-size: 5rem;
+}
